@@ -1,5 +1,6 @@
 # EliosPass
 
+
 EliosPass est un générateur de mots de passe interactif écrit en Python utilisant Tkinter pour l'interface graphique. Il permet de créer des mots de passe sécurisés en sélectionnant différents critères tels que les majuscules, les minuscules, les caractères spéciaux et les chiffres.
 
 ## Fonctionnalités
